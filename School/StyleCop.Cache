@@ -9,8 +9,8 @@
   <sourcecode name="Course.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2013.01.11 10:37:58.000</styleCop>
-      <settingsFile>2013.05.06 21:32:22.131</settingsFile>
-      <sourceFile>2013.05.06 20:51:25.969</sourceFile>
+      <settingsFile>2013.05.13 23:15:33.548</settingsFile>
+      <sourceFile>2013.05.06 22:30:44.453</sourceFile>
       <parser>2013.01.11 10:37:58.000</parser>
       <StyleCop.CSharp.DocumentationRules>2013.01.11 10:37:58.000</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>-630970124</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -27,12 +27,18 @@
       <StyleCop.CSharp.SpacingRules>2013.01.11 10:37:58.000</StyleCop.CSharp.SpacingRules>
       <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
     </timestamps>
-    <violations />
+    <violations>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="UseBuiltInTypeAlias" ruleCheckId="SA1121">
+        <context>Use the built-in type alias 'string' rather than String or System.String.</context>
+        <line>28</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
   </sourcecode>
   <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2013.01.11 10:37:58.000</styleCop>
-      <settingsFile>2013.05.06 21:32:22.131</settingsFile>
+      <settingsFile>2013.05.13 23:15:33.548</settingsFile>
       <sourceFile>2013.05.04 22:34:28.198</sourceFile>
       <parser>2013.01.11 10:37:58.000</parser>
       <StyleCop.CSharp.DocumentationRules>2013.01.11 10:37:58.000</StyleCop.CSharp.DocumentationRules>
@@ -55,7 +61,7 @@
   <sourcecode name="School.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2013.01.11 10:37:58.000</styleCop>
-      <settingsFile>2013.05.06 21:32:22.131</settingsFile>
+      <settingsFile>2013.05.13 23:15:33.548</settingsFile>
       <sourceFile>2013.05.06 21:21:31.858</sourceFile>
       <parser>2013.01.11 10:37:58.000</parser>
       <StyleCop.CSharp.DocumentationRules>2013.01.11 10:37:58.000</StyleCop.CSharp.DocumentationRules>
@@ -78,7 +84,7 @@
   <sourcecode name="Student.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2013.01.11 10:37:58.000</styleCop>
-      <settingsFile>2013.05.06 21:32:22.131</settingsFile>
+      <settingsFile>2013.05.13 23:15:33.548</settingsFile>
       <sourceFile>2013.05.06 20:13:48.548</sourceFile>
       <parser>2013.01.11 10:37:58.000</parser>
       <StyleCop.CSharp.DocumentationRules>2013.01.11 10:37:58.000</StyleCop.CSharp.DocumentationRules>

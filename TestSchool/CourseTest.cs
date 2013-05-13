@@ -73,7 +73,7 @@
 
             for (int i = 0; i < Course.MaxStudentsInCourse; i++)
             {
-                Student student = new Student(name, numberID+i);
+                Student student = new Student(name, numberID + i);
                 course.AddStudent(student);
                 Assert.IsTrue(course.Students.Contains(student));
             }
@@ -104,8 +104,8 @@
                 course.AddStudent(student);
             }
 
-                course.RemoveStudent(new Student("Ivan Ivanov",10002));
-                Assert.IsFalse(course.Students.Contains(new Student("Ivan Ivanov",10002)));
+                course.RemoveStudent(new Student("Ivan Ivanov", 10002));
+                Assert.IsFalse(course.Students.Contains(new Student("Ivan Ivanov", 10002)));
         }
 
         [TestMethod]

@@ -55,7 +55,7 @@
             school.AddCourse(new Course("Java"));
 
             school.RemoveCourse(new Course(".NET"));
-            Assert.IsFalse(school.Courses.Contains(new Course((".NET"))));
+            Assert.IsFalse(school.Courses.Contains(new Course(".NET")));
         }
 
         [TestMethod]
