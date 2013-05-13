@@ -1,0 +1,7 @@
+C:\Users\Ly\Documents\Visual Studio 2012\Projects\School\TestSchool\bin\Debug\TestSchool.dll
+C:\Users\Ly\Documents\Visual Studio 2012\Projects\School\TestSchool\bin\Debug\TestSchool.pdb
+C:\Users\Ly\Documents\Visual Studio 2012\Projects\School\TestSchool\bin\Debug\School.dll
+C:\Users\Ly\Documents\Visual Studio 2012\Projects\School\TestSchool\bin\Debug\School.pdb
+C:\Users\Ly\Documents\Visual Studio 2012\Projects\School\TestSchool\obj\Debug\TestSchool.csprojResolveAssemblyReference.cache
+C:\Users\Ly\Documents\Visual Studio 2012\Projects\School\TestSchool\obj\Debug\TestSchool.dll
+C:\Users\Ly\Documents\Visual Studio 2012\Projects\School\TestSchool\obj\Debug\TestSchool.pdb
